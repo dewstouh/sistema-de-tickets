@@ -26,7 +26,7 @@
  
 > - ` 0. ` Tener **node.js v16.6 o mayor**
 > 
-> - ` 1. ` En el archivo `./botconfig/config.json` Ajusta el TOKEN y el PREFIJO
+> - ` 1. ` En el archivo `./config/config.json` Ajusta el TOKEN y el PREFIJO
 > 
 > - ` 2. ` `npm install` para instalar las dependencias
 > 
