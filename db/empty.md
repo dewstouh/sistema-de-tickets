@@ -1,0 +1,1 @@
+Esta carpeta es para bases de datos
