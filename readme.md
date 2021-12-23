@@ -45,7 +45,7 @@
 
 [![Niby | El mejor bot todo en 1 2022](https://cdn.discordapp.com/avatars/879388961892618310/ceaa05c1871c6d98313ba36080645168.webp?size=512)](https://dewstouh.github.io/niby)
 
-# Credits
+# Creditos
 
 > Si vas a usar este bot, dame creditos!
 
